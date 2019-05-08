@@ -1,0 +1,8 @@
+[submodule "ImageAnalytics-Data"]
+	path = ImageAnalytics-Data
+	url = git@github.com:TASBE/ImageAnalytics-Data.git
+	branch = master
+[submodule "TASBEImageAnalytics"]
+	path = TASBEImageAnalytics
+	url = git@github.com:TASBE/TASBEImageAnalytics.git
+	branch = master
