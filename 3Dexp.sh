@@ -14,7 +14,7 @@ checkFailure() {
 # Get path to FIJI
 if [ -z "${FIJI_PATH}" ]; # Test to see if it was set in the environment
   then
-    # If not set in evn, use first script parameter
+    # If not set in env, use first script parameter
     FIJI_PATH=$1
 fi
 
